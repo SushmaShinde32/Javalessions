@@ -5,5 +5,5 @@
  * @author sushma
  *
  */
-module JavaSELessons {
+module JavaSELessions {
 }
